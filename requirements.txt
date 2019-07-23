@@ -1,0 +1,7 @@
+pandas
+ipdb
+requests
+seaborn
+matplotlib
+sklearn
+
